@@ -4,13 +4,13 @@ http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=1919
 http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 #EXTINF:-1 ,东森财经
 rtmp://59.124.75.138:1935/sat/tv571
-#EXTINF:-1 ,东森财经新闻
-rtmp://59.124.75.150/sat/tv571
-#EXTINF:-1 ,民视新闻
-http://60.251.33.252:18563/.m3u8
+#EXTINF:-1 ,中天新闻
+http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 ,TVBS新闻
 rtmp://59.124.75.138/sat/tv551
 #EXTINF:-1 ,凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 #EXTINF:-1 ,TVBS 56
 http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+#EXTINF:-1 ,CBC News (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
